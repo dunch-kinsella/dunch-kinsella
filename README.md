@@ -3,3 +3,5 @@
 - 👀 I'm interested in game development, databasing & UX accessibility.
 - 🌱 Currently learning Java and SQL for college projects.
 - 🥊 In my free time I like boxing, mountain biking & taking my dog on hikes.
+
+I'm currently working on a text based Java game called 'Barovia', to learn more about Java coding and implementing SQL databases.
